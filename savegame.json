@@ -1,0 +1,19 @@
+{
+  "name": "kk",
+  "level": 1,
+  "xp": 0,
+  "gold": 10,
+  "hp": 9,
+  "max_hp": 30,
+  "weapon": "fists",
+  "inv": {
+    "Herb": 0,
+    "Wood": 0,
+    "Iron": 0,
+    "Fang": 0,
+    "Crystal": 0,
+    "small_potion": 0,
+    "large_potion": 0
+  },
+  "location": "bar"
+}
